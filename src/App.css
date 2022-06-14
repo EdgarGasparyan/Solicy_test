@@ -1,0 +1,67 @@
+.app {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+}
+
+.left {
+  width: 85%;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.right {
+  width: 15%;
+  border-left: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.instructions_container{
+padding: 0px 10px 0px 10px;
+}
+.footer {
+  width: 100%;
+  height: 60px;
+  border-top: 1px solid black;
+  display: flex;
+  align-items: center;
+}
+
+.footer p {
+  margin-left: 20px;
+}
+
+.main_container {
+  display: flex;
+  flex-wrap: wrap;
+  overflow: auto;
+  padding: 20px 100px 20px 100px;
+  justify-content: center;
+}
+
+.card {
+  width: 300px;
+  height: 200px;
+  border: 1px solid black;
+  margin: 10px 10px 10px 10px;
+  display: flex;
+  flex-direction: column;
+}
+.card_trash {
+  display: flex;
+  justify-content: flex-end;
+  margin: -18px 0px 0px 0px;
+}
+.card_trash h3 {
+  margin-right: 8px;
+}
+.card_trash h3:hover {
+  color: red;
+  cursor: pointer;
+}
+.card_text {
+  text-align: center;
+}
