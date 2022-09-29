@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/EdgarGasparyan.github.io/Solicy_test/static/css/main.76a352fe.css",
+    "main.js": "/EdgarGasparyan.github.io/Solicy_test/static/js/main.4e4b39bd.js",
+    "static/js/787.e53eca74.chunk.js": "/EdgarGasparyan.github.io/Solicy_test/static/js/787.e53eca74.chunk.js",
+    "index.html": "/EdgarGasparyan.github.io/Solicy_test/index.html",
+    "main.76a352fe.css.map": "/EdgarGasparyan.github.io/Solicy_test/static/css/main.76a352fe.css.map",
+    "main.4e4b39bd.js.map": "/EdgarGasparyan.github.io/Solicy_test/static/js/main.4e4b39bd.js.map",
+    "787.e53eca74.chunk.js.map": "/EdgarGasparyan.github.io/Solicy_test/static/js/787.e53eca74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76a352fe.css",
+    "static/js/main.4e4b39bd.js"
+  ]
+}
