@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/edgargasparyan.github.io/Solicy_test/static/css/main.76a352fe.css",
-    "main.js": "/edgargasparyan.github.io/Solicy_test/static/js/main.c6894a8a.js",
-    "static/js/787.e53eca74.chunk.js": "/edgargasparyan.github.io/Solicy_test/static/js/787.e53eca74.chunk.js",
-    "index.html": "/edgargasparyan.github.io/Solicy_test/index.html",
-    "main.76a352fe.css.map": "/edgargasparyan.github.io/Solicy_test/static/css/main.76a352fe.css.map",
-    "main.c6894a8a.js.map": "/edgargasparyan.github.io/Solicy_test/static/js/main.c6894a8a.js.map",
-    "787.e53eca74.chunk.js.map": "/edgargasparyan.github.io/Solicy_test/static/js/787.e53eca74.chunk.js.map"
+    "main.css": "/Solicy_test/static/css/main.76a352fe.css",
+    "main.js": "/Solicy_test/static/js/main.636b2f34.js",
+    "static/js/787.e53eca74.chunk.js": "/Solicy_test/static/js/787.e53eca74.chunk.js",
+    "index.html": "/Solicy_test/index.html",
+    "main.76a352fe.css.map": "/Solicy_test/static/css/main.76a352fe.css.map",
+    "main.636b2f34.js.map": "/Solicy_test/static/js/main.636b2f34.js.map",
+    "787.e53eca74.chunk.js.map": "/Solicy_test/static/js/787.e53eca74.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76a352fe.css",
-    "static/js/main.c6894a8a.js"
+    "static/js/main.636b2f34.js"
   ]
 }
